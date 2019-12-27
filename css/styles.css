@@ -1,0 +1,133 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-size: 1.2em;
+  font-family: 'Merriweather', serif;
+
+}
+
+P{
+color: #405143;
+  line-height: 2;
+}
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  height: 0;
+  width: 5%;
+}
+  h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+  }
+
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+  }
+
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+  }
+  .pro {
+    text-decoration: underline;
+  }
+  .intro{
+    width: 30%;
+    margin: auto;
+  }
+
+  .profile{
+  margin-top: 50px;
+  padding: 50px 0 50px;
+  }
+a{
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+  .top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
+  }
+
+  .middle-container {
+    margin: 10px
+  }
+
+  .skills {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+  }
+
+  .cars {
+    float: right;
+    margin-left: 30px;
+    width: 20%;
+  }
+
+  .soccer {
+    width: 20%;
+    float: left;
+margin-right: 30px;
+  }
+
+  .bottom-container {
+    background-color: #66BFBF;
+    padding:50px 0 30px;
+
+  }
+.btn
+ {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom,#11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Merriweather', serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+  .top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+  }
+
+  .contact-me{
+    padding: 50px 0 20px;
+  }
+.contact-message{
+  width: 40%;
+  margin: 50px auto 50px;
+}
+.footer{
+  color: #EAF6F6;
+}
